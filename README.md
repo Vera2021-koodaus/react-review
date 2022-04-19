@@ -1,3 +1,3 @@
-1. 董师傅的hooks 课程
-2. localstorage 的用法
-3. class组件的redux 用法
+1.use of hooks 
+2. use of localstorage
+3. class components redux managing states
